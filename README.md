@@ -1,3 +1,3 @@
 # proguraming１
-## python3
+## python3 skill up textbook
 
