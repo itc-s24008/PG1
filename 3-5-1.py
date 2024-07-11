@@ -5,4 +5,3 @@ while a < 100:
         print(a)
         break
     a += 2
-
